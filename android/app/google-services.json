@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38713974164",
+    "project_id": "homaze-4b386",
+    "storage_bucket": "homaze-4b386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38713974164:android:ed6595300c104d65c0c381",
+        "android_client_info": {
+          "package_name": "com.example.homaze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38713974164-tjkfjjrtvsmj0l5gffq6pu334b7iqpjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA13YYV35vsBZTCsbX8GLjNcnZb0iLo5jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38713974164-tjkfjjrtvsmj0l5gffq6pu334b7iqpjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
